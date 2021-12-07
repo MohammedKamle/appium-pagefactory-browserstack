@@ -1,10 +1,5 @@
 # appium-pagefactory-browserstack
 This repository demonstrate how we can integrate both iOS and android test with the same script using PageFactory on BrowserStack. 
-## System Requirements
-```
-Windows or Mac
-Java JDK 1.8+
-```
 ## Libraries used
 ```
 Appium
