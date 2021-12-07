@@ -1,0 +1,17 @@
+---
+userName: <USERNAME>
+acessKey: <ACCESSKEY>
+server: hub-cloud.browserstack.com
+devices:
+  - name: ios11
+    platform: ios
+    osVersion: 14.0
+    device: iPhone 12
+    app: <APP_HASHID>
+  - name: androidPixel3
+    platform: android
+    osVersion: 9.0
+    device: Google Pixel 3
+    app: <APP_HASHID>
+
+
