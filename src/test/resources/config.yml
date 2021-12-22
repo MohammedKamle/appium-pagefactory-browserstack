@@ -7,11 +7,11 @@ devices:
     platform: ios
     osVersion: 14.0
     device: iPhone 12
-    app: TheAppIOS
+    app: <APP_HASH_ID>
   - name: androidPixel3
     platform: android
     osVersion: 9.0
     device: Google Pixel 3
-    app: TheAppAndroid
+    app: <APP_HASH_ID>
 
 
