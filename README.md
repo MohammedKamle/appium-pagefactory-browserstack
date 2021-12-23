@@ -16,9 +16,9 @@ Maven
   - Clone the project 
   - Build the project using:
 ```
-mvn clean instal
+mvn clean install
 ```
-  - Give your BrowserStack specific username name and access key along with your app identifier in [`config.yml`](https://github.com/MohammedKamle/appium-pagefactory-browserstack/blob/master/src/test/resources/config.yml) 
+  - Give your BrowserStack specific username and accessKey along with your app identifier in [`config.yml`](https://github.com/MohammedKamle/appium-pagefactory-browserstack/blob/master/src/test/resources/config.yml) 
   - Run the cucumber test runner class [TestRunner](https://github.com/MohammedKamle/appium-pagefactory-browserstack/blob/master/src/test/java/com/browserstack/tests/TestRunner.java)
 ### Tes Results 
 You can view the executed tests on your [`app-automate`](https://app-automate.browserstack.com/dashboard) dashboard on BrowserStack 
